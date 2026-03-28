@@ -1,0 +1,8 @@
+[spl]
+name = "sample_splent_spl"
+description = "Sample SPL with authentication, profile, mail, and session management features"
+
+[spl.uvl]
+mirror = "uvlhub.io"
+doi = "10.5281/zenodo.19219696"
+file = "sample_splent_spl.uvl"
