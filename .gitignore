@@ -1,0 +1,3 @@
+# UVL files are downloaded on demand from UVLHub via `spl:fetch`.
+# Only metadata.toml is tracked — it contains the mirror, DOI, and filename.
+*.uvl
