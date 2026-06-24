@@ -4,5 +4,5 @@ description = "Sample SPL with authentication, profile, mail, and session manage
 
 [spl.uvl]
 mirror = "uvlhub.io"
-doi = "10.5281/zenodo.20837446"
+doi = "10.5281/zenodo.20837624"
 file = "sample_splent_app.uvl"
