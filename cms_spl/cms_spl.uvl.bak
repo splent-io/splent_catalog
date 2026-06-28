@@ -1,9 +1,0 @@
-features
-    cms_spl
-        mandatory
-
-		optional
-			theme {org 'splent-io', package 'splent_feature_theme'}
-		optional
-			team {org 'splent-io', package 'splent_feature_team'}
-constraints
