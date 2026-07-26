@@ -4,5 +4,5 @@ description = "Websites assembled from real content features (theme, team, event
 
 [spl.uvl]
 mirror = "uvlhub.io"
-doi = ""
+doi = "10.5281/zenodo.21610307"
 file = "cms_spl.uvl"

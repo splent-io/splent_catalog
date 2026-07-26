@@ -4,5 +4,5 @@ description = ""
 
 [spl.uvl]
 mirror = "uvlhub.io"
-doi = ""
+doi = "10.5281/zenodo.21610309"
 file = "marketplace_spl.uvl"
