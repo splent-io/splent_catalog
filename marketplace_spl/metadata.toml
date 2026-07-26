@@ -1,0 +1,8 @@
+[spl]
+name = "marketplace_spl"
+description = ""
+
+[spl.uvl]
+mirror = "uvlhub.io"
+doi = ""
+file = "marketplace_spl.uvl"
