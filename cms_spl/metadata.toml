@@ -1,6 +1,6 @@
 [spl]
 name = "cms_spl"
-description = "CMS SPL — websites assembled from real content features (theme, team, events, news, projects…) with a public shell and an admin back-office"
+description = "Websites assembled from real content features (theme, team, events, news, projects and more) with a public shell and an admin back-office"
 
 [spl.uvl]
 mirror = "uvlhub.io"
