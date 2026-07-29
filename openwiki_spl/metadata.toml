@@ -1,0 +1,10 @@
+[spl]
+name = "openwiki_spl"
+description = "Course wikis for university subjects: material organised as courses, sections and documents, released on a date and protected until then"
+
+[spl.uvl]
+mirror = "uvlhub.io"
+doi = ""
+concept_doi = ""
+version = ""
+file = "openwiki_spl.uvl"
