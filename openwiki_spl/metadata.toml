@@ -1,10 +1,10 @@
 [spl]
 name = "openwiki_spl"
-description = "Course wikis for university subjects: material organised as courses, sections and documents, released on a date and protected until then"
+description = "Course wikis for university subjects: a product holds courses, each divided into categories, each holding pages, released on a date and withheld until then, files included"
 
 [spl.uvl]
 mirror = "uvlhub.io"
-doi = ""
+doi = "10.5281/zenodo.21694003"
 concept_doi = ""
-version = ""
+version = "1"
 file = "openwiki_spl.uvl"
