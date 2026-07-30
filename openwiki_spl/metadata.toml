@@ -4,7 +4,7 @@ description = "Course wikis for university subjects: a product holds courses, ea
 
 [spl.uvl]
 mirror = "uvlhub.io"
-doi = "10.5281/zenodo.21694003"
+doi = "10.5281/zenodo.21708566"
 concept_doi = ""
-version = "1"
+version = "2"
 file = "openwiki_spl.uvl"
